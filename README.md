@@ -47,7 +47,7 @@ I'm a **Spring Boot Developer** with a passion for building scalable backend sys
   Strong understanding of **Spring Boot**, **RESTful APIs**, **JPA/Hibernate**, **MySQL**, and **Security**, with a commitment to writing clean, testable, and maintainable code.
 
 - **Proficient in Development Tools**  
-  Experienced with **Git**, **GitHub**, **Figma**, **Jira**, and **Agile methodologies** like **SCRUM** for delivering high-quality backend solutions.
+  Experienced with **Git**, **GitHub**, **Jira**, and **Agile methodologies** like **SCRUM** for delivering high-quality backend solutions.
 
 - **API Design and Integration**  
   Developed and integrated **REST APIs**, implementing features such as **authentication**, **data persistence**, and **service layers**.
